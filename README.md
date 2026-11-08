@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**afrin-1234/afrin-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Syeda Afrin Sultana 👋
 
-Here are some ideas to get you started:
+### 💻 Aspiring Full Stack Developer | MCA Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about web development and technology.
+
+- 🎓 Currently pursuing MCA.
+- 🌱 Learning Full Stack Web Development.
+- 💻 Interested in building responsive websites.
+- 🚀 Working on real-world web development projects.
+- 🎯 Goal: To become a successful Full Stack Developer.
+
+### 🛠️ My Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+
+
+### 🔧 Tools
+
+- VS Code
+- Git
+- GitHub
+- Netlify
+
+### 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/syedaafrin-sultana-8a509b309
+
+---
+⭐ Thanks for visiting my profile!
